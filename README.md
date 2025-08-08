@@ -19,7 +19,7 @@ A computer vision-based project to detect fake Indian currency notes using deep 
 - XGBoost
 - Matplotlib & Seaborn
 
-> ⚠️ All images should be in `.jpg` format and resized to 128x128.
+> ⚠️ All images should be in `.jpg` format and resized.
 
 🙏 Acknowledgements
 - Dataset provided by kaggle
